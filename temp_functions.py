@@ -10,7 +10,6 @@ def fahr_to_celsius(temp_fahrenheit):
 def temp_classifier(temp_celsius):
   """
   purpose: reclassified into integer numbers 0-3.
-  funcion: temp_classifier
   parameter: temp_celsius
   returned values: 0 to 3
   """
@@ -25,7 +24,6 @@ def temp_classifier(temp_celsius):
 
     """
     Purpose: To take advantage of your new functions and sort a dataset of temperatures in Fahrenheit into four different classes.
-    functions: fahr_to_ celsius and temp_classifier
     parameters: temp_fahrenheit and temp_celsius
     returned values: converted_temp and 0 to 3
     """
