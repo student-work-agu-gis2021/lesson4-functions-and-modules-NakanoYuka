@@ -25,6 +25,7 @@
 
 
 # YOUR CODE HERE to define temp_classifier
+#function and reclassify
 def temp_classifier(temp_celsius):
   """
   purpose: reclassified into integer numbers 0-3.
@@ -45,9 +46,11 @@ def temp_classifier(temp_celsius):
 
 # 1. What is the class value for 16.5 degrees Celsius?
 # YOUR CODE HERE
+#　print result
 print("temperature",temp_classifier(16.5))
 # 2. What is the class value for +2 degrees Celsius?
 # YOUR CODE HERE
+#print result
 print("temperature",temp_classifier(2))
 
 
@@ -80,9 +83,9 @@ print("ok :)")
 #  - Does your function has an informative dosctring?
 
 # YOUR ANSWER HERE. Write your answer as comments
-#
-#
-#
+# All the variable names are correct.
+# My code has comments.
+# My function has an informative dosctring.
 #
 #
 # YOUR ANSWER ENDS HERE
