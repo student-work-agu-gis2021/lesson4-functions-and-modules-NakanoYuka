@@ -29,7 +29,6 @@
 def temp_classifier(temp_celsius):
   """
   purpose: reclassified into integer numbers 0-3.
-  funcion: temp_classifier
   parameter: temp_celsius
   returned values: 0 to 3
   """
