@@ -120,8 +120,8 @@ print(zeros,ones,twos,threes)
 
 # YOUR ANSWER HERE. Write your answer as comments (with #)
 #
-#
-#
+# I have comments and use required variables names.
+# There is no poblem.
 #
 #
 # YOUR ANSWER ENDS HERE.
