@@ -19,6 +19,7 @@
 # - Adding comments in your code and a docstring that explains how to use your `fahr_to_celsius` function (i.e., you should write the purpose of the function, parameters, and returned values)
 
 # YOUR CODE HERE
+#add function
 def fahr_to_celsius(temp_fahrenheit):
  """
  Purpose: converts the input temperature from degrees Fahrenheit to degrees Celsius. 
@@ -34,6 +35,7 @@ def fahr_to_celsius(temp_fahrenheit):
 # 2. What about 71° Fahrenheit in Celsius?
 
 # ### Check your code
+# print and confirm result
 print("48 degrees Fahrenheit in Celsius is:", fahr_to_celsius(48))
 print("71 degrees Fahrenheit in Celsius is:", fahr_to_celsius(71))
 # - Make sure you used the given variable names
